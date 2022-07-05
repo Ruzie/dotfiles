@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce4-file-manager.desktop,xfce-ui-settings.desktop,firefox.desktop,xfce-wm-settings.desktop,xfce-settings-manager.desktop,xfce4-taskmanager.desktop
+recent=io.gitlab.Goodvibes.desktop,xfce4-file-manager.desktop,xfce-wm-settings.desktop,xfce-ui-settings.desktop,firefox.desktop,msedge.desktop,xfce-keyboard-settings.desktop,xfce4-terminal-emulator.desktop,xfce-settings-manager.desktop,xfce4-taskmanager.desktop
 button-title=\ Start
 button-icon=/home/ruzie/Pictures/startbutton.png
 button-single-row=false
