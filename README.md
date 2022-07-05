@@ -14,6 +14,9 @@ Rename `config` with `.config`, now move both `.oh-my-zsh` and `.config` in your
 After these steps, change your theme with Fluent-round-dark and icon theme with Tela-ubuntu-dark.\
 Remember, these steps can be done manually too! You may need to logout first to apply theme and icon changes, then login back.
 
+#### Todo: I'll add them later
+lightdm, lightdm-gtk-greeter and lightdm-gtk-greeter-settings
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/71683721/177345529-537e1dff-53ae-4775-a6e2-125f2da9e9a5.png)
 
