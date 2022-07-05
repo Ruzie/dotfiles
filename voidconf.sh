@@ -6,7 +6,7 @@
 
 # Check if script was run as superuser
 if [ ${UID} !=  0 ]; then
-	echo "This script must be run as superuser (if your root username is different kindly change \"ROOT_USER\" value with your current configured one)."
+	echo "This script must be run as superuser."
 	exit 1
 fi
 
