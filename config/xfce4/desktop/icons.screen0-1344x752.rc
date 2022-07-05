@@ -1,9 +1,4 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
-4.10.3+=true
-
-[/home/ruzie/Desktop/Tela-icon-theme]
-row=4
-col=0
 
 [/home/ruzie/Desktop/voidconf.sh]
 row=3
@@ -13,11 +8,4 @@ col=0
 row=0
 col=0
 
-[/]
-row=1
-col=0
-
-[/home/ruzie]
-row=2
-col=0
 
